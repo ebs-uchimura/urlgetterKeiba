@@ -1,6 +1,6 @@
 /**
 /* main.js
-/* ScrapingKeiba - Getting horse racing data. -
+/* UrlGetterKeiba - Getting horse url -
 **/
 
 "use strict";
